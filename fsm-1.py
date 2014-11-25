@@ -1,4 +1,8 @@
-//takes a log file and dumps a Pickle with key fields
+"""
+takes a log file and dumps a Pickle with key fields
+main method is process
+Author- @mobileraj1
+"""
 import cPickle as pik
 
 def getStr(l,ty):
